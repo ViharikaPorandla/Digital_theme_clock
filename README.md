@@ -1,5 +1,6 @@
 # Digital_theme_clock
 ⏰ Theme Clock
+
 A simple, elegant clock with both light and dark modes to display the present time. This project demonstrates the use of HTML, CSS, and JavaScript to create a responsive and visually appealing clock.
 
 📑 Table of Contents
